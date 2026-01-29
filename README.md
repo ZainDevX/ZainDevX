@@ -1,5 +1,7 @@
 # About Me
 
+![Available for Hire](https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge)
+
 **Full Stack Web Developer | 2+ Years Experience | SaaS & Production-Level Apps**
 
 - Build production-ready websites in days using **Claude, Gemini** and AI-powered workflows
