@@ -1,18 +1,12 @@
 # About Me
 
-**Full Stack Web Developer** with **2+ years** of experience in building production-ready and SaaS-level web applications.
+**Full Stack Web Developer | 2+ Years Experience | SaaS & Production-Level Apps**
 
-### What I Do:
-
-- I use top AI models like **Claude** and **Gemini** to build complete, production-ready websites in just a few days
-- I have strong knowledge of **Prompt Engineering** — I know how to write the right prompts to get error-free and clean code from AI
-- I build websites with **strong security** (enterprise-level) and **fast performance**
-- I work with **multiple AI agents** on a single project to speed up development — without losing context or getting wrong outputs
-- I know how to **automate tasks** using tools like **n8n** and **MCP Servers**
-- Currently working on a **SaaS project** with a solid backend
-
-### In Simple Words:
-> I can build a high-quality, secure, and fast website in a short time by using AI the right way.
+- Build production-ready websites in days using **Claude, Gemini** and AI-powered workflows
+- Expert in **Prompt Engineering** — clean, error-free, scalable code
+- Strong focus on **Security** and **Performance**
+- Skilled in **Automation** (n8n, MCP Servers, Multi-Agent Systems)
+- Currently building a **SaaS product**
 
 ---
 
