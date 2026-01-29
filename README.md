@@ -1,19 +1,18 @@
-# 💫 About Me:
+# About Me
 
-🚀 **Full Stack Web Developer** with **2+ years** of hands-on experience building **production-ready** and **SaaS-level** web applications.
+**Full Stack Web Developer** with **2+ years** of experience in building production-ready and SaaS-level web applications.
 
-### What I Bring to the Table:
+### What I Do:
 
-- 🔥 **AI-Powered Development Expert** — Leveraging top-tier AI models like **Claude** and **Gemini** to build production-grade websites in record time
-- 🧠 **Prompt Engineering Specialist** — Deep expertise in crafting precise prompts that generate **error-free**, **scalable**, and **production-ready** code
-- 🛡️ **Security-First Approach** — Building applications with **enterprise-grade security** standards and best practices
-- ⚡ **Performance Optimization** — Delivering **lightning-fast** applications with optimized performance metrics
-- 🤖 **AI Agentic Workflows** — Proficient in orchestrating **multi-agent systems** to accelerate development without model hallucination or context overflow
-- 🔄 **Automation Expert** — Skilled in workflow automation using **n8n**, **MCP Servers**, and custom automation pipelines
-- 💼 **Currently Building** — Working on an exciting **SaaS project** with robust backend architecture
+- I use top AI models like **Claude** and **Gemini** to build complete, production-ready websites in just a few days
+- I have strong knowledge of **Prompt Engineering** — I know how to write the right prompts to get error-free and clean code from AI
+- I build websites with **strong security** (enterprise-level) and **fast performance**
+- I work with **multiple AI agents** on a single project to speed up development — without losing context or getting wrong outputs
+- I know how to **automate tasks** using tools like **n8n** and **MCP Servers**
+- Currently working on a **SaaS project** with a solid backend
 
-### My Development Philosophy:
-> *"Build fast, build secure, build to scale"* — I combine the power of AI with solid engineering principles to deliver exceptional results in minimal time.
+### In Simple Words:
+> I can build a high-quality, secure, and fast website in a short time by using AI the right way.
 
 ---
 
